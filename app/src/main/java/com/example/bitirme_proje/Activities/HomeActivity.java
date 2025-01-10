@@ -37,7 +37,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class HomeActivity extends AppCompatActivity {
-
+//Home Activity
     private ActivityHomeBinding binding;
     FirebaseAuth mAuth;
     private FirebaseFirestore db;

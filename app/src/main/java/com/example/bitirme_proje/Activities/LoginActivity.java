@@ -71,6 +71,7 @@ public class LoginActivity extends AppCompatActivity {
         if (TextUtils.isEmpty(email)){
             binding.txtinputEmail.setError("Email boş olamaz");
             binding.txtinputEmail.requestFocus();
+
         }else if (TextUtils.isEmpty(password)){
             binding.txtinputPassword.setError("Şifre giriniz");
             binding.txtinputPassword.requestFocus();
