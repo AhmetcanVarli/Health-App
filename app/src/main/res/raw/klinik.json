@@ -1,0 +1,500 @@
+{
+  "data": [
+    {
+      "klinik_adi": "Algoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "SEVİNÇ KÜÇÜKDEMİRTAŞ"
+        },
+        {
+          "doktor_adi": "CANSU SELCAN BAĞIRSAKÇI"
+        },
+        {
+          "doktor_adi": "DEVRAN GÖKSU"
+        },
+        {
+          "doktor_adi": "HÜSNÜ ÇİLDİR"
+        },
+        {
+          "doktor_adi": "FERAT SÜMENGEN"
+        },
+        {
+          "doktor_adi": "İBRAHİM TAYFUN İLGEN"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Anesteziyoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "ŞEYDA ŞAHAN"
+        },
+        {
+          "doktor_adi": "EGE ŞEBİT"
+        },
+        {
+          "doktor_adi": "ESER ERDOĞMUŞ"
+        },
+        {
+          "doktor_adi": "FATMA ESRA YAMAN"
+        },
+        {
+          "doktor_adi": "COŞKUN HİÇDURMAZ"
+        },
+        {
+          "doktor_adi": "YAKUP KOÇOĞLU"
+        },
+        {
+          "doktor_adi": "ÖZLEM ÇALIŞIR"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Dermotoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "MÜSLİM BURUNKAYA"
+        },
+        {
+          "doktor_adi": "AYBEGÜM KİRİŞCİ"
+        },
+        {
+          "doktor_adi": "DOĞAN ABAT"
+        },
+        {
+          "doktor_adi": "BURAK CANİK"
+        },
+        {
+          "doktor_adi": "BİLGİN MÜJDECİ"
+        },
+        {
+          "doktor_adi": "AHMET CAN DEMİRCİOĞLU"
+        },
+        {
+          "doktor_adi": "TUĞBERK BULUÇ"
+        },
+        {
+          "doktor_adi": "MUHAMMET BAĞBUR DELİKARA"
+        },
+        {
+          "doktor_adi": "USLU ATALI"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Cerrahi Onkoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "TESLİME NAZLI ÜZEN"
+        },
+        {
+          "doktor_adi": "HİDAYET TACAR"
+        },
+        {
+          "doktor_adi": "ÖZGÜN TEZEL"
+        },
+        {
+          "doktor_adi": "ERSİN TUĞRUL"
+        },
+        {
+          "doktor_adi": "NURULLAH GÖKDEMİR"
+        },
+        {
+          "doktor_adi": "SU ÖZBİR"
+        },
+        {
+          "doktor_adi": "NURDAN KANMAZ"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Çocuk Endokrinolojisi",
+      "doktorlar": [
+        {
+          "doktor_adi": "TUNA ÖKTEM"
+        },
+        {
+          "doktor_adi": "MEVSİM SUNGUR"
+        },
+        {
+          "doktor_adi": "SEFA BÖLÜK"
+        },
+        {
+          "doktor_adi": "NEVZAT TÜTEN"
+        },
+        {
+          "doktor_adi": "VİLDAN SARAY"
+        },
+        {
+          "doktor_adi": "VİLDAN SARAY"
+        },
+        {
+          "doktor_adi": "ŞABAN TEZER"
+        },
+        {
+          "doktor_adi": "ABDULMELİK CAN BORAN"
+        },
+        {
+          "doktor_adi": "YONCA ÇEÇEN"
+        },
+        {
+          "doktor_adi": "ŞADİ ZİLELİGİL"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Endokrinoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "VELAT KAYKISIZ"
+        },
+        {
+          "doktor_adi": "EMRAH KEMAL ERDEMİR"
+        },
+        {
+          "doktor_adi": "MÜRSELİN KANBUROĞLU"
+        },
+        {
+          "doktor_adi": "AYSUN KILIÇ"
+        },
+        {
+          "doktor_adi": "MÜCADİYE TOPRAK"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Gastrioloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "ECEM MERHAMETSİZ"
+        },
+        {
+          "doktor_adi": "MEHMET DİRİM FİLİZ"
+        },
+        {
+          "doktor_adi": "NİMET GÜMÜŞSU"
+        },
+        {
+          "doktor_adi": "CEMİLE ÇİĞDEM ATÇEKEN"
+        },
+        {
+          "doktor_adi": "TEVFİK ÇETE"
+        },
+        {
+          "doktor_adi": "BEDREDDİN BOSTAN"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Hemotoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "KERİM MUSLU"
+        },
+        {
+          "doktor_adi": "NAZİRE KÖKSOY"
+        },
+        {
+          "doktor_adi": "FİKRİ BAK"
+        },
+        {
+          "doktor_adi": "KADİR YAŞİT"
+        },
+        {
+          "doktor_adi": "SEZEN AKKOYUNLU"
+        },
+        {
+          "doktor_adi": "SAVAŞ GÜRCAN"
+        },
+        {
+          "doktor_adi": "ABDULSEMET ERZURUM"
+        },
+        {
+          "doktor_adi": "ŞÜKRİYE ABAT"
+        },
+        {
+          "doktor_adi": "TUNAHAN GÖKYAR"
+        },
+        {
+          "doktor_adi": "DAĞHAN OFLAZOĞLU"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Jinokoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "UFUK YURDAM"
+        },
+        {
+          "doktor_adi": "EVREN DİNÇER"
+        },
+        {
+          "doktor_adi": "YÜSRA AKTEPE"
+        },
+        {
+          "doktor_adi": "MİNE KAHYA"
+        },
+        {
+          "doktor_adi": "ŞÜKRAN KOLTUK"
+        },
+        {
+          "doktor_adi": "FAİK TAY"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Kardioloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "NİHAT OMAY"
+        },
+        {
+          "doktor_adi": "NEJDET CANDEMİR"
+        },
+        {
+          "doktor_adi": "BURHAN TÜRE"
+        },
+        {
+          "doktor_adi": "ŞÜKRAN KOLTUK"
+        },
+        {
+          "doktor_adi": "TUNGA ÜNEY"
+        },
+        {
+          "doktor_adi": "KEMAL KÜRŞAT PARA"
+        },
+        {
+          "doktor_adi": "NEFİSE KARAKOYUNLU"
+        },
+        {
+          "doktor_adi": "FERİDE ALP"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Kriyoterapi",
+      "doktorlar": [
+        {
+          "doktor_adi": "FÜSUN NALBAT"
+        },
+        {
+          "doktor_adi": "HİCRAN NART"
+        },
+        {
+          "doktor_adi": "ASUDAN TUĞÇE BAHA"
+        },
+        {
+          "doktor_adi": "ERGÜN AKÇINAR"
+        },
+        {
+          "doktor_adi": "SENEM KAL"
+        },
+        {
+          "doktor_adi": "HACI MEHMET TINAZ"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Nefroloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "TUNCAY FIRAT"
+        },
+        {
+          "doktor_adi": "ESMA ÖZLEM ORHUN"
+        },
+        {
+          "doktor_adi": "MUZAFFER OĞUZ ÜLGEN"
+        },
+        {
+          "doktor_adi": "SEDA ELÇİM ERTAŞ"
+        },
+        {
+          "doktor_adi": "İSMAİL YAVUZ BABAYİĞİT"
+        },
+        {
+          "doktor_adi": "HÜMEYRA KAÇER"
+        },
+        {
+          "doktor_adi": "AYKUT KARSAVURANOĞLU"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Nöroloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "CEYLİN MERDEN"
+        },
+        {
+          "doktor_adi": "MAHDİ TURANLI"
+        },
+        {
+          "doktor_adi": "MÜGE SİVRİKAYA"
+        },
+        {
+          "doktor_adi": "HATİCE ÖZGE BELDER"
+        },
+        {
+          "doktor_adi": "ŞEBNEM AK"
+        },
+        {
+          "doktor_adi": "GİRAY ERGUT"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Onkoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "NEBAHAT ÖZÜDOĞRU"
+        },
+        {
+          "doktor_adi": "NURÇİN DAĞAŞAN"
+        },
+        {
+          "doktor_adi": "TÜRKER BİLGE"
+        },
+        {
+          "doktor_adi": "KORHAN SONAY"
+        },
+        {
+          "doktor_adi": "MERT CİNDORUK"
+        },
+        {
+          "doktor_adi": "BAHATTİN BOYSAN"
+        },
+        {
+          "doktor_adi": "REGAİP YILMAZ İNAL"
+        },
+        {
+          "doktor_adi": "İLKNUR ÜZDÜRMEZ"
+        },
+        {
+          "doktor_adi": "MUSTAFA KEMAL ELMALI"
+        },
+        {
+          "doktor_adi": "MEHMET YAVUZ MERAL"
+        },
+        {
+          "doktor_adi": "NİHAL ÖZTÜRKMEN"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Onkokardiyoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "SİNAN ZAFER"
+        },
+        {
+          "doktor_adi": "SİMAY KARACA"
+        },
+        {
+          "doktor_adi": "SIRRI TUNÇAY"
+        },
+        {
+          "doktor_adi": "SENAN TÜRKSOY"
+        },
+        {
+          "doktor_adi": "BERTUĞ HEKİMAN"
+        },
+        {
+          "doktor_adi": "TUTKU ALBAŞ"
+        },
+        {
+          "doktor_adi": "ALİ SAİD AKKUTAY"
+        },
+        {
+          "doktor_adi": "YÜKSEL UĞUR BAĞÇIVAN"
+        },
+        {
+          "doktor_adi": "CANSEN ÜNAL"
+        },
+        {
+          "doktor_adi": "ALİ HASAN ÇALIK"
+        },
+        {
+          "doktor_adi": "AHMET ALİ IŞIK"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Pediatri",
+      "doktorlar": [
+        {
+          "doktor_adi": "ARİ TAŞKESEN"
+        },
+        {
+          "doktor_adi": "HEDİYE BUDAKÇI"
+        },
+        {
+          "doktor_adi": "HANİFE BUĞRU"
+        },
+        {
+          "doktor_adi": "GÜLSEREN KONURALP"
+        },
+        {
+          "doktor_adi": "İSMAİL KÜÇÜKFIRAT"
+        },
+        {
+          "doktor_adi": "ENDER HERSEK"
+        },
+        {
+          "doktor_adi": "EYÜPCAN ALIMLI"
+        },
+        {
+          "doktor_adi": "SABRİ SEFA GÜLLÜ"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Perinatoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "SALİM UYSAL"
+        },
+        {
+          "doktor_adi": "NURCAN KARAASLAN"
+        },
+        {
+          "doktor_adi": "FATMANUR CENK"
+        },
+        {
+          "doktor_adi": "FUNDA ÖZLEM KILIÇOĞLU"
+        },
+        {
+          "doktor_adi": "SENA ÖKMEN"
+        }
+      ]
+    },
+    {
+      "klinik_adi": "Romatoloji",
+      "doktorlar": [
+        {
+          "doktor_adi": "GÖKBERK BULAKÇI"
+        },
+        {
+          "doktor_adi": "OĞULCAN DİKMEN"
+        },
+        {
+          "doktor_adi": "BENAY ESMERAY"
+        },
+        {
+          "doktor_adi": "ÇAĞAN AKSAN"
+        },
+        {
+          "doktor_adi": "BATURHAN AKIN"
+        },
+        {
+          "doktor_adi": "SARE KIRBAŞ"
+        },
+        {
+          "doktor_adi": "AYLA AKSAÇ"
+        }
+      ]
+    }
+  ]
+}
+	

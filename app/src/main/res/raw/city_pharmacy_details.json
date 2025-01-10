@@ -1,0 +1,598 @@
+{
+  "cityDetail": [
+    {
+      "id": "1",
+      "name": "Adana",
+      "ilceler": [
+        {
+          "ilce_adi": "Aladağ",
+          "eczaneler": [
+            {
+              "eczane_id": 1,
+              "eczane_adi": "Aladağ Eczanesi",
+              "eczane_adres": "Sinanpaşa Mahallesi, İnönü Caddesi, No:104 Aladağ / Adana",
+              "eczane_tel": "0 (322) 591-26-41",
+              "eczane_lat_lng": "37.547753432538286,35.39507389014634"
+            },
+            {
+              "eczane_id": "2",
+              "eczane_adi": "Keklik Eczanesi",
+              "eczane_adres": "Mansurlu Mahallesi, İnönü Caddesi, No:105 Aladağ / Adana",
+              "eczane_tel": "0 (322) 591-24-24"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Seyhan",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "2000 Evler Eczanesi",
+              "eczane_adres": "2000 Evler Mahallesi, Bülent Ecevit Bulvarı, Seyhan / Adana",
+              "eczane_tel": "0 (322) 248-25-42",
+              "eczane_lat_lng": "37.02918589087861,35.26867910219059"
+            },
+            {
+              "eczane_id": "2",
+              "eczane_adi": "Abidinpaşa Eczanesi",
+              "eczane_adres": "Abidinpaşa Caddesi, No:18/D Seyhan / Adana",
+              "eczane_tel": "0 (322) 359-01-98"
+            },
+            {
+              "eczane_id": "3",
+              "eczane_adi": "Acarplus Eczanesi",
+              "eczane_adres": "Mavi Bulvar Yurt Mahallesi, 71195 Sokak, Tugay Apt No:26",
+              "eczane_tel": "0 (322) 224-02-58"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Yüreğir",
+          "eczaneler": [
+            {
+              "eczane_adi": "Abay Eczanesi"
+            },
+            {
+              "eczane_adi": "Adalet Eczanesi"
+            },
+            {
+              "eczane_adi": "Adana Eczanesi"
+            },
+            {
+              "eczane_adi": "Adem Eczanesi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Adıyaman",
+      "ilceler": [
+        {
+          "ilce_adi": "Merkez"
+        },
+        {
+          "ilce_adi": "Kahta"
+        },
+        {
+          "ilce_adi": "Besni"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Afyonkarahisar",
+      "ilceler": [
+        {
+          "ilce_adi": "Merkez"
+        },
+        {
+          "ilce_adi": "Sandıklı"
+        },
+        {
+          "ilce_adi": "Dinar"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Ağrı",
+      "ilceler": [
+        {
+          "ilce_adi": "Merkez"
+        },
+        {
+          "ilce_adi": "Patnos"
+        },
+        {
+          "ilce_adi": "Doğubayazıt"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Amasya",
+      "ilceler": [
+        {
+          "ilce_adi": "Merkez"
+        },
+        {
+          "ilce_adi": "Merzifon"
+        },
+        {
+          "ilce_adi": "Suluova"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Elazığ",
+      "ilceler": [
+        {
+          "ilce_adi": "Ağın",
+          "eczaneler": [
+            {
+              "eczane_id": 1,
+              "eczane_adi": "Ağın Eczanesi",
+              "eczane_adres": "Merkez Mahallesi, Atatürk Caddesi No:34 Ağın / Elazığ",
+              "eczane_tel": "0 (424) 551-22-22",
+              "eczane_lat_lng": "38.944784,38.712572"
+            },
+            {
+              "eczane_id": "2",
+              "eczane_adi": "Aksın Eczanesi",
+              "eczane_adres": "Gazi Caddesi, No:7/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 218-32-85",
+              "eczane_lat_lng": "38.674794946325584,39.2216133422357"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Alacakaya",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Abalı Eczanesi",
+              "eczane_adres": "Altınçanak Mahallesi, Yeni Camii Caddesi No:19 Alacakaya / Elazığ",
+              "eczane_tel": "0 (424) 481-66-08",
+              "eczane_lat_lng": "38.46070317677656,39.86450000302787"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Arıcak",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Arıcak Eczanesi",
+              "eczane_adres": "Mustafa Çelebi Mahallesi, Meydan Küme Evleri No:30/C Arıcak / Elazığ",
+              "eczane_tel": "0 (424) 771-22-12",
+              "eczane_lat_lng": "38.563454,40.134568"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Baskil",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Ayturan Eczanesi",
+              "eczane_adres": "Canbeyler Mahallesi, Elazığ Caddesi No:21/A Baskil / Elazığ",
+              "eczane_tel": "0 (424) 511-22-33",
+              "eczane_lat_lng": "38.571692,38.827493"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Elazığ Merkez",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Abdullahpaşa Eczanesi",
+              "eczane_adres": "Abdullahpaşa, Mahallesi, Saray Bosna Caddesi No:8/N Merkez / Elazığ",
+              "eczane_tel": "0 (424) 247-17-77",
+              "eczane_lat_lng": "38.661984237002486,39.157182415943595"
+            },
+            {
+              "eczane_id": "2",
+              "eczane_adi": "Akçiçek Eczanesi",
+              "eczane_adres": "İzzetpaşa Mahallesi, İzzetpaşa Caddesi, No:11/A-B Merkez / Elazığ",
+              "eczane_tel": "0 (424) 237-37-36",
+              "eczane_lat_lng": "38.67621207438131,39.2239983382698"
+            },
+            {
+              "eczane_id": "3",
+              "eczane_adi": "Akdemir Eczanesi",
+              "eczane_adres": "Sarayatik Mahallesi, Bosna Hersek Bulvarı No:53/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 238-96-63",
+              "eczane_lat_lng": "38.669321260984155,39.222690426092996"
+            },
+            {
+              "eczane_id": "4",
+              "eczane_adi": "Akgül Eczanesi",
+              "eczane_adres": "Rızaiye Mahallesi, Tatlı Sokak No:6/B Merkez / Elazığ",
+              "eczane_tel": "0 (424) 212-66-14",
+              "eczane_lat_lng": "38.676116289857276,39.22452005267074"
+            },
+            {
+              "eczane_id": "5",
+              "eczane_adi": "Akpınar Eczanesi",
+              "eczane_adres": "Akpınar Mahallesi, General Abdullah Alpdoğan Caddesi, No:44/D Merkez / Elazığ",
+              "eczane_tel": "0 (424) 236-25-68",
+              "eczane_lat_lng": "38.67058227973576,39.220134769395884"
+            },
+            {
+              "eczane_id": "6",
+              "eczane_adi": "Aksın Eczanesi",
+              "eczane_adres": "Gazi Caddesi, No:7/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 218-32-85",
+              "eczane_lat_lng": "38.67479528082167,39.22161184651553"
+            },
+            {
+              "eczane_id": "7",
+              "eczane_adi": "Albayrak Eczanesi",
+              "eczane_adres": "Şehit Astsubay Mustafa Uygur Caddesi, No:55/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 241-26-96",
+              "eczane_lat_lng": "38.66683500655557,39.197694961904695"
+            },
+            {
+              "eczane_id": "8",
+              "eczane_adi": "Atagün Eczanesi",
+              "eczane_adres": "Üniversite Mahallesi, Yahya Kemal Caddesi, No:44/C Merkez / Elazığ",
+              "eczane_tel": "0 (424) 502-02-34",
+              "eczane_lat_lng": "38.68000641959351,39.207159491405166"
+            },
+            {
+              "eczane_id": "9",
+              "eczane_adi": "Ataşehir Eczanesi",
+              "eczane_adres": "Ataşehir Mahallesi, Malatya Caddesi, No:105/C Merkez / Elazığ ",
+              "eczane_tel": "0 (424) 247-66-88",
+              "eczane_lat_lng": "38.65694492531441,39.156602723803324"
+            },
+            {
+              "eczane_id": "10",
+              "eczane_adi": "Ayşe Eczanesi",
+              "eczane_adres": "Nailbey Mahallesi, Vali Fahribey Caddesi, No:34/A Merkez / Elazığ ",
+              "eczane_tel": "0 (424) 233-86-16",
+              "eczane_lat_lng": "38.67433215221358,39.21977293676791"
+            },
+            {
+              "eczane_id": "11",
+              "eczane_adi": "Aytimur Eczanesi",
+              "eczane_adres": "Abdullahpaşa Mahallesi, 293. Sokak No:51/C Merkez / Elazığ",
+              "eczane_tel": "0 (424) 212-66-34",
+              "eczane_lat_lng": "38.66087610961102,39.14698817495063"
+            },
+            {
+              "eczane_id": "12",
+              "eczane_adi": "Bahadır Eczanesi",
+              "eczane_adres": "Ataşehir Mahallesi, Zeybekler Sokak No:52 Merkez / Elazığ",
+              "eczane_tel": "0 (424) 236-67-67",
+              "eczane_lat_lng": "38.65909626037975,39.17693847775937"
+            },
+            {
+              "eczane_id": "13",
+              "eczane_adi": "Bahçeci Eczanesi",
+              "eczane_adres": "Doğukent Mahallesi, Ahmet Yesevi Caddesi, No:15/1-D Merkez / Elazığ",
+              "eczane_tel": "0 (424) 234-07-08",
+              "eczane_lat_lng": "38.680635456831496,39.267322723562685"
+            },
+            {
+              "eczane_id": "14",
+              "eczane_adi": "Banu Eczanesi",
+              "eczane_adres": "Cumhuriyet Mahallesi, Fatih Ahmet Baba Bulvarı No:24/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 248-00-24",
+              "eczane_lat_lng": "38.66808346189528,39.173475578706004"
+            },
+            {
+              "eczane_id": "15",
+              "eczane_adi": "Baran Eczanesi",
+              "eczane_adres": "Gazi Caddesi, No:66/B Merkez / Elazığ ",
+              "eczane_tel": "0 (424) 233-42-27",
+              "eczane_lat_lng": "38.67561230701494,39.21542859392214"
+            },
+            {
+              "eczane_id": "16",
+              "eczane_adi": "Baytop Eczanesi",
+              "eczane_adres": "Aksaray Mahallesi, Şehit Albay Ruşen Sağmanlı Caddesi No:22/B Merkez / Elazığ",
+              "eczane_tel": "0 (424) 233-71-69",
+              "eczane_lat_lng": "38.66073053582751,39.230310997651834"
+            },
+            {
+              "eczane_id": "17",
+              "eczane_adi": "Beray Eczanesi",
+              "eczane_adres": "Üniversite Mahallesi, Yahya Kemal Caddesi, No:16/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 233-12-70",
+              "eczane_lat_lng": "38.67711761557795,39.207942858272304"
+            },
+            {
+              "eczane_id": "18",
+              "eczane_adi": "Beritan Eczanesi",
+              "eczane_adres": "SSugözü Mahallesi, Sugözü Caddesi No:191/A Merkez / Elazığ",
+              "eczane_tel": "0 (536) 616-00-23",
+              "eczane_lat_lng": "38.68805575214793,39.274670350923984"
+            },
+            {
+              "eczane_id": "19",
+              "eczane_adi": "Bihter Eczanesi",
+              "eczane_adres": "Şehitilhanlar Caddesi, Mehmetçik Sokak No:20/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 236-86-86",
+              "eczane_lat_lng": "38.676692577312416,39.22201500859484"
+            },
+            {
+              "eczane_id": "20",
+              "eczane_adi": "Bilge Eczanesi",
+              "eczane_adres": "Ataşehir Mahallesi, General Eşref Bitlis Caddesi No:7 Merkez / Elazığ",
+              "eczane_tel": "0 (424) 212-15-15",
+              "eczane_lat_lng": "38.657189073519504,39.16294756441771"
+            },
+            {
+              "eczane_id": "21",
+              "eczane_adi": "Bilim Eczanesi",
+              "eczane_adres": "Hürriyet Caddesi, Çarşı Mahallesi, No:80/B Merkez / Elazığ",
+              "eczane_tel": "0 (424) 238-52-22",
+              "eczane_lat_lng": "38.67348064624714,39.22909733743026"
+            },
+            {
+              "eczane_id": "22",
+              "eczane_adi": "Bingöl Eczanesi",
+              "eczane_adres": "Sugözü Mahallesi, Sugözü Caddesi, No:191/C Merkez / Elazığ",
+              "eczane_tel": "0 (424) 238-07-79 ",
+              "eczane_lat_lng": "38.687618904088886,39.27415930674685"
+            },
+            {
+              "eczane_id": "23",
+              "eczane_adi": "Binnur Eczanesi",
+              "eczane_adres": "Sürsürü Mahallesi, Çeşme Sokak No:109 Merkez / Elazığ",
+              "eczane_tel": "0 (424) 247-76-76",
+              "eczane_lat_lng": "38.66764900378962,39.18384632881245"
+            },
+            {
+              "eczane_id": "24",
+              "eczane_adi": "Büşra Eczanesi",
+              "eczane_adres": "Sürsürü Mahallesi, Şehit Mimar F.M.Bakar Sokak No:48/E Merkez / Elazığ",
+              "eczane_tel": "0 (424) 247-85-80",
+              "eczane_lat_lng": "38.66794780273926,39.18438463558229"
+            },
+            {
+              "eczane_id": "25",
+              "eczane_adi": "Çağrı Eczanesi",
+              "eczane_adres": "Olgunlar Mahallesi, Şubaşı Sokak No:23/A Merkez / Elazığ ",
+              "eczane_tel": "0 (424) 241-62-00",
+              "eczane_lat_lng": "38.66775001872268,39.21341140674686"
+            },
+            {
+              "eczane_id": "26",
+              "eczane_adi": "Çakılcıoğlu Eczanesi",
+              "eczane_adres": "Kazım Karabekir Caddesi, No:43/C Merkez / Elazığ",
+              "eczane_tel": "0 (424) 233-20-20",
+              "eczane_lat_lng": "38.66889008622527,39.23459206626569"
+            },
+            {
+              "eczane_id": "27",
+              "eczane_adi": "Canbay Eczanesi",
+              "eczane_adres": "Nailbey Mahallesi, Gazi Caddesi, No:53/A, Merkez / Elazığ",
+              "eczane_tel": "0 (424) 237-38-38",
+              "eczane_lat_lng": "38.6753593840944,39.21745836441771"
+            },
+            {
+              "eczane_id": "28",
+              "eczane_adi": "Çaydaçıra Eczanesi",
+              "eczane_adres": "Çaydaçıra Mahallesi, Adnan Kahveci Bulvarı No:11 Merkez / Elazığ",
+              "eczane_tel": "0 (424) 502-04-04",
+              "eczane_lat_lng": "38.69330850414602,39.16847143042509"
+            },
+            {
+              "eczane_id": "29",
+              "eczane_adi": "Çelik Eczanesi",
+              "eczane_adres": "Saray Atik Mahallesi, Bosna Hersek Bulcarı No:57/A Merkez / Elazığ",
+              "eczane_tel": "0 (424) 236-63-34",
+              "eczane_lat_lng": "38.67037346684695,39.22232669325314"
+            },
+            {
+              "eczane_id": "30",
+              "eczane_adi": "Defne Eczanesi",
+              "eczane_adres": "Doğukent Mahallesi, Ahmet Yesevi Caddesi No:25/B-C Merkez / Elazığ",
+              "eczane_tel": "0 (424) 233-37-33",
+              "eczane_lat_lng": "38.6877910124761,39.27190560317929"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Karakoçan",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Bulutoğlu Eczanesi",
+              "eczane_adres": "Tepe Mahallesi, Han Çeşmesi Sokak No:11 Karakoçan / Elazığ",
+              "eczane_tel": "0 (424) 711-38-36",
+              "eczane_lat_lng": "38.955870039242676,40.03582855719696"
+            },
+            {
+              "eczane_id": "2",
+              "eczane_adi": "Cannur Eczanesi",
+              "eczane_adres": "Yeni Mahallesi, Hükümet Meydanı No:6/1 Karakoçan / Elazığ",
+              "eczane_tel": "0 (424) 711-52-52",
+              "eczane_lat_lng": "38.95487263311111,40.03750727975941"
+            },
+            {
+              "eczane_id": "3",
+              "eczane_adi": "Hayat Eczanesi",
+              "eczane_adres": "Yeni Mahalle, Kalecik Caddesi No:9/C Karakoçan / Elazığ",
+              "eczane_tel": "0 (424) 711-47-42",
+              "eczane_lat_lng": "38.95562391996121,40.039569693253135"
+            },
+            {
+              "eczane_id": "4",
+              "eczane_adi": "Karakoçan Eczanesi",
+              "eczane_adres": "Atatürk Caddesi, No:62 Karakoçan / Elazığ",
+              "eczane_tel": "0 (424) 711-33-28",
+              "eczane_lat_lng": "38.95534603439298,40.03692666441771"
+            },
+            {
+              "eczane_id": "5",
+              "eczane_adi": "Sağlık Eczanesi",
+              "eczane_adres": "Kırkpınar Mahallesi, Hastane Caddesi, No:12 Karakoçan / Elazığ ",
+              "eczane_tel": "0 (424) 711-25-25",
+              "eczane_lat_lng": "38.946816978362484,40.04866967975942"
+            },
+            {
+              "eczane_id": "6",
+              "eczane_adi": "Sara Eczanesi",
+              "eczane_adres": "Yeni Mahalle, Kalecik Caddesi No:9/E Karakoçan / Elazığ ",
+              "eczane_tel": "0 (424) 711-50-05",
+              "eczane_lat_lng": "38.95566514920318,40.03964597975942"
+            },
+            {
+              "eczane_id": "7",
+              "eczane_adi": "Şifa Eczanesi",
+              "eczane_adres": "Kırkpınar Mahallesi, Kalecik Caddesi No:18/1 Karakoçan / Elazığ",
+              "eczane_tel": "0 (424) 711-33-04",
+              "eczane_lat_lng": "38.95531007556491,40.03938722208857"
+            },
+            {
+              "eczane_id": "8",
+              "eczane_adi": "Yaşam Eczanesi",
+              "eczane_adres": "Yeni Mahallesi, Cumhuriyet Caddesi No:16/B Karakoçan / Elazığ",
+              "eczane_tel": "0 (424) 711-37-24",
+              "eczane_lat_lng": "38.955855360806716,40.03711863743027"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Keban",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Taşkın eczanesi",
+              "eczane_adres": "Değirmenbaşı, Elazığ yolu caddesi No:10, Keban/Elazığ, Türkiye",
+              "eczane_tel": "0 (424) 571-25-25",
+              "eczane_lat_lng": "38.79411594622114,38.74426078044948"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Kovancılar",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Akpınar Eczanesi",
+              "eczane_adres": "Çay Başı Mahallesi, Aziz Yıldırım Caddesi Kovancılar / Elazığ",
+              "eczane_tel": "0 (424) 611-60-54",
+              "eczane_lat_lng": "38.71945171885925,39.864647208594846"
+            },
+            {
+              "eczane_id": "2",
+              "eczane_adi": "Ataş Eczanesi",
+              "eczane_adres": "Çarşıbaşı Mahallesi, İlhami Ertem Caddesi No:53 Kovancılar / Elazığ",
+              "eczane_tel": "0 (424) 611-50-01",
+              "eczane_lat_lng": "38.72007992997293,39.864716052771975"
+            },
+            {
+              "eczane_id": "3",
+              "eczane_adi": "Derman Eczanesi",
+              "eczane_adres": "Çarşı Başı Mahallesi, İlhami Ertem Caddesi, Kovancılar / Elazığ",
+              "eczane_tel": "0 (424) 611-52-02",
+              "eczane_lat_lng": "38.71804475056601, 39.86659636441772"
+            },
+            {
+              "eczane_id": "4",
+              "eczane_adi": "Esra Eczanesi",
+              "eczane_adres": "Gültepe Mahallesi, Lokman Sokak, Kovancılar / Elazığ ",
+              "eczane_tel": "0 (424) 611-44-45",
+              "eczane_lat_lng": "38.72152042668275,39.856601022088576"
+            },
+            {
+              "eczane_id": "5",
+              "eczane_adi": "Furkan Eczanesi",
+              "eczane_adres": "Tuna Mahallesi, Sağlık Caddesi No:46/A Kovancılar / Elazığ",
+              "eczane_tel": "0 (424) 611-41-33",
+              "eczane_lat_lng": "38.72187853756937,39.86518379325313"
+            },
+            {
+              "eczane_id": "6",
+              "eczane_adi": "Özkeser Eczanesi",
+              "eczane_adres": "Gültepe Mahallesi, Lokman Sokak No:3, Kovancılar / Elazığ",
+              "eczane_tel": "0 (538) 829-52-87",
+              "eczane_lat_lng": "38.722067031645715,39.85636806441771"
+            },
+            {
+              "eczane_id": "7",
+              "eczane_adi": "Sağlık Eczanesi",
+              "eczane_adres": "Elazığ İlçe Devlet Hastanesi karşısı Kovancılar / Elazığ",
+              "eczane_tel": "0 (424) 611-31-11",
+              "eczane_lat_lng": "38.94676691353434,40.04863749325314"
+            },
+            {
+              "eczane_id": "8",
+              "eczane_adi": "Yağmur Eczanesi",
+              "eczane_adres": "Çarşıbaşı Mahallesi, İlhami Ertem Caddesi No:30, Kovancılar / Elazığ",
+              "eczane_tel": "0 (424) 611-35-19",
+              "eczane_lat_lng": "38.71941596063478,39.86533223373431"
+            },
+            {
+              "eczane_id": "9",
+              "eczane_adi": "Yıldırım Eczanesi",
+              "eczane_adres": "Çarşıbaşı Mahallesi, İlhami Ertem Caddesi No:12, Kovancılar / Elazığ",
+              "eczane_tel": "0 (424) 611-20-02",
+              "eczane_lat_lng": "38.71804475056601, 39.86659636441772"
+            },
+            {
+              "eczane_id": "10",
+              "eczane_adi": "ÖZKESER ECZANESİ",
+              "eczane_adres": "Gültepe Mahallesi, Lokman Sokak No:3 Kovancılar / Elazığ",
+              "eczane_tel": "+90 538 829 52 87 ",
+              "eczane_lat_lng": "38.72200531115394, 39.85635781520754"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Maden",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Dörtyol Eczanesi",
+              "eczane_adres": "Bahçelievler Mahallesi, Hacı Güllü Sokak No:173 Maden / Elazığ",
+              "eczane_tel": "0 (424) 237-83-35",
+              "eczane_lat_lng": "38.39983484255897,39.67213743558229"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Palu",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Onur Eczanesi",
+              "eczane_adres": "Cumhuriyet Mahallesi, Cumhuriyet Caddesi No:23 Palu / Elazığ",
+              "eczane_tel": "0 (424) 651-23-10",
+              "eczane_lat_lng": "38.69324132166716,39.92790625092398"
+            },
+            {
+              "eczane_id": "2",
+              "eczane_adi": "Palu Eczanesii",
+              "eczane_adres": "Numune Mahallesi, Cumhuriyet Bulvarı No:16 Palu / Elazığ",
+              "eczane_tel": "0 (424) 651-20-40",
+              "eczane_lat_lng": "38.69324132166716,39.92790625092398"
+            }
+          ]
+        },
+        {
+          "ilce_adi": "Sivrice",
+          "eczaneler": [
+            {
+              "eczane_id": "1",
+              "eczane_adi": "Sivrice Eczanesi",
+              "eczane_adres": "Hazar Mahallesi, Şht.Er M.Engin Öz Caddesi No:64/A Sivrice / Elazığ",
+              "eczane_tel": "0 (424) 411-30-00",
+              "eczane_lat_lng": "38.44932192303726,39.30573659699695"
+            }
+          ]
+        },
+        {
+        }
+      ]
+    }
+  ]
+}

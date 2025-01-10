@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sağlık Uygulaması</string>
+    <string name="email">Email</string>
+    <string name="sifre">Şifre</string>
+    <string name="sifremi_unuttum">Şifremi Unuttum</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="hesabiniz_yok_mu">Hesabınız yok mu ?</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="ad">Ad</string>
+    <string name="soyad">Soyad</string>
+    <string name="telefon_no">Telefon No</string>
+    <string name="sifre_tekrar">Şifre Tekrar</string>
+    <string name="title_activity_pharmacies">PharmaciesActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="API_KEY">AIzaSyB3BB8yvAm7T7ESLoP1Qpa1gWaEDIlSyz8</string>
+</resources>
