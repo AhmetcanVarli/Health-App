@@ -2,6 +2,11 @@
 
 Bu Android uygulaması, kullanıcıların sağlıkla ilgili birçok işlemi kolaylıkla gerçekleştirebileceği bir platform sunar. Kullanıcılar, uygulama üzerinden randevu alabilir, eczaneleri görebilir, randevu ve reçete geçmişlerine ulaşabilir.
 
+![Screenshot_20250110_164135---1](https://github.com/user-attachments/assets/5ff0652c-378b-453a-8a34-7f3ec9b97ca5)
+
+![Screenshot_20250110_164551---4](https://github.com/user-attachments/assets/8c8073fa-b272-4c61-a0a0-10d740b804ec)
+
+
 ## 📱 Uygulama Özellikleri
 
 ### 1. **Kullanıcı Kayıt ve Giriş**
